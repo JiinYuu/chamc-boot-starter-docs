@@ -8,16 +8,19 @@
 
 0.0.1-SNAPSHOT
 
-
-
-目录
 ## 1.文档简介
+
 本节主要是开发平台后端框架参考指南的一个概述，你可以把它想象成本文档的一个内容索引。你可以顺序的阅读本文档，也可以跳过本节，如果你对本节没有兴趣的话。
+
 ### 1.1 关于本文档
+
 开发平台后端框架参考指南最新版本发布地址：[https://jiinyuu.github.io/chamc-boot-starter-reference/](https://jiinyuu.github.io/chamc-boot-starter-reference/) ，本文档的副本你可以随便下载或分享给他人。
+
 ### 1.2 获取帮助
+
 关于开发平台后端框架的任何问题，我们都乐于提供帮助！
 - 发送邮件给[我](mailto:luomingqiang@chamc.com.cn)、[苗世鹏](mailto:miaoshipeng@chamc.com.cn) 或 [唐红石](mailto:tanghongshi@chamc.com.cn)。
+
 ### 1.3 开始步骤
 ### 1.4 使用chamc-boot-starter-\*
 ### 1.5 学习chamc-boot-starter-\*组件
