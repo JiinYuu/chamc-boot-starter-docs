@@ -19,7 +19,9 @@
 ### 1.2 获取帮助
 
 关于开发平台后端框架的任何问题，我们都乐于提供帮助！
-- 发送邮件给[我](mailto:luomingqiang@chamc.com.cn)、[苗世鹏](mailto:miaoshipeng@chamc.com.cn) 或 [唐红石](mailto:tanghongshi@chamc.com.cn)。
+- 查看[How-to]()章节，你可以找到大部分问题的答案；
+- 发送邮件给[我](mailto:luomingqiang@chamc.com.cn)、[苗世鹏](mailto:miaoshipeng@chamc.com.cn) 或 [唐红石](mailto:tanghongshi@chamc.com.cn)；
+- 电话给我、苗世鹏或唐红石，电话号码可在公司通讯录里查询，具体路径：华融资产-子公司-华融融通-软件开发部。
 
 ### 1.3 开始步骤
 
@@ -34,5 +36,13 @@
 如果你刚开始使用开发平台后端框架，那么本节内容会对你有很大帮助！本节主要回答基本的“what”、“how”和“why”问题，以及一个简单的使用说明。然后我们会构建第一个基于开发平台后端框架的应用。
 
 ### 2.1 开发平台后端框架介绍
+
+## 3 使用开发平台后端框架
+
+## 4 开发平台后端框架组件
+
+## 5 “How-to”指南
+
+## 6 附录
 
 
